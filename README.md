@@ -23,3 +23,5 @@ This project is beginner-friendly and perfect for learning Python libraries and 
 - **Python 3**
 - **qrcode** library
 - **Pillow (PIL)** for image processing
+
+---
